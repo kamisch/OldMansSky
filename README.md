@@ -1,5 +1,7 @@
 # Old Mans Sky
 Infinite runner game project created for Comp 50H class. 
+## Screenshots
+placeholder
 ## Controls
 - Up
 - Down
@@ -16,5 +18,5 @@ https://ephtracy.github.io/
 ## UI
 I used Blender to create to background of the loading screen, and some other assets used in the game
 ## Notice
-Due to the University's closing of Student AFS space, the game is no longer on the website. 
+Due to the University closing down Student AFS space, the game is no longer on the previous website. 
 It is now on https://kamisch.github.io/OldMansSky/
