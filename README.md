@@ -1,16 +1,16 @@
 # Old Mans Sky
-Infinite runner game project created for Comp 50H class. 
+You are an old super man fly across space. Watch out for the meteoroids and don't hit by too many of them. Becarful of gravitational effect of different planets and the SUN. Try you best to beat your highest score every time.
 ## Screenshots
 #### Start 
 ![Image1](unity_src/Assets/Image/OldMansSky1.png)
-#### Stage 1
+### Stage 1
 ![Image2](unity_src/Assets/Image/OldMansSky2.png)
 ![Image3](unity_src/Assets/Image/OldMansSky3.png)
-#### Stage 2
+### Stage 2
 ![Image5](unity_src/Assets/Image/OldMansSky7)
-#### Stage 3
+### Stage 3
 ![Image5](unity_src/Assets/Image/OldMansSky6.png)
-#### Pause Screen
+### Pause Screen
 ![Image4](unity_src/Assets/Image/OldMansSky4.png)
 ![Image5](unity_src/Assets/Image/OldMansSky7)
 ## Controls
