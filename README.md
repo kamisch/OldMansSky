@@ -8,6 +8,8 @@ Infinite runner game project created for Comp 50H class.
 ![Image3](unity_src/Assets/Image/OldMansSky3.png)
 #### Stage 2
 ![Image5](unity_src/Assets/Image/OldMansSky7)
+#### Stage 3
+![Image5](unity_src/Assets/Image/OldMansSky6.png)
 #### Pause Screen
 ![Image4](unity_src/Assets/Image/OldMansSky4.png)
 ![Image5](unity_src/Assets/Image/OldMansSky7)
