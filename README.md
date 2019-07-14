@@ -1,12 +1,12 @@
 # Old Mans Sky
 Infinite runner game project created for Comp 50H class. 
 ## Controls
-Up:
-Down:
-Left:
-Right:
-L-Control: Use rocket fuel to boost speed
-Space: Slow time and speed
+- Up
+- Down
+- Left
+- Right
+- L-Control: Use rocket fuel to boost speed
+- Space: Slow time and speed
 ## Version
 This game is in the beta version. More feature will be added.
 This is build with Unity 5.6 but it should be able to be opened with new versions of Unity
