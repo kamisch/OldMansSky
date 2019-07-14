@@ -1,7 +1,7 @@
 # Old Mans Sky
 Infinite runner game project created for Comp 50H class. 
 ## Screenshots
-placeholder
+<img src='unity_src/Assets/Image/OldMansSky.png'>
 ## Controls
 - Up
 - Down
